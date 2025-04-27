@@ -2,6 +2,10 @@
 # Web scraping in Python - Step by step guide
 <!--endhide-->
 
+> Available in multiple languages:
+[![Español](https://img.shields.io/badge/Espa%C3%B1ol-FF6347?style=for-the-badge&logo=google-translate&logoColor=white)](./README.es.md)
+
+
 - Become familiar with a web environment in which you want to extract certain information.
 - Develop a code to obtain its content and extract it from a specific table.
 - Use a database to store the data and process it.
