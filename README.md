@@ -2,7 +2,7 @@
 # Web scraping in Python - Step by step guide
 <!--endhide-->
 
-> Available in multiple languages:
+> Available in Spanish:
 [![Español](https://img.shields.io/badge/Espa%C3%B1ol-FF6347?style=for-the-badge&logo=google-translate&logoColor=white)](./README.es.md)
 
 
